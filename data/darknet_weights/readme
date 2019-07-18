@@ -1,0 +1,2 @@
+place pretrained weights on COCO dataset here.
+Yolov3.weight 转换成Yolov3.ckpt
